@@ -112,4 +112,4 @@ That should be it, now you can test out the application and see the Queue fillin
 
 ![](./assets/cold-start.png)
 
-Enjoy! 🐧
+Enjoy! 🐧🐧
