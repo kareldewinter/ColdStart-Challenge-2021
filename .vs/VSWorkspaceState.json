@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\C1-ColdStart_On_The_Web",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp\\api",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp\\api\\catalog-get",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp\\api\\orders-post",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp\\api\\shared",
+    "\\C1-ColdStart_On_The_Web\\coldstartapp\\vue-app"
+  ],
+  "SelectedNode": "\\C1-ColdStart_On_The_Web\\coldstartapp\\api\\host.json",
+  "PreviewInSolutionExplorer": false
+}
